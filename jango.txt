@@ -1,0 +1,11 @@
+>>Open Command
+
+>>django-admin startproject mysite
+
+>>cd mysite
+
+>>python manage.py runserver
+
+>>open link http://127.0.0.1:8000/
+
+>> py manage.py startapp hello
